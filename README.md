@@ -38,7 +38,6 @@ Each notebook contains:
 
 📌 Real-world case studies
 
-✅ Practice tasks
 
 
 
