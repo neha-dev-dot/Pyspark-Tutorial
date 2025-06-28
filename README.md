@@ -41,11 +41,5 @@ Each notebook contains:
 ✅ Practice tasks
 
 
-## ⭐ Support & Collaboration
-
-If you found this useful:
-⭐ Star this repo
-🍴 Fork it
-
 
 
